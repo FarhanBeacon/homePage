@@ -1,0 +1,40 @@
+header{
+    background-color: black;
+    color: aliceblue;
+    height: 30px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+#anc a{
+    text-decoration: none;
+    font-weight: 400;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+section{
+    display: flex;
+}
+
+.style{
+    background-color: bisque;
+}
+
+.nav-style a{
+    padding: 10px 35px;
+    color: azure;
+    background-color: black;
+    display: block;
+}
+
+#mid-color{
+    background-color:beige;
+    padding: 5px 10px;
+}
+
+footer{
+    background-color: bisque;
+    height: 50px;
+    padding-top: 20px;
+    text-align: center;
+}
